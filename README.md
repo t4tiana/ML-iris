@@ -1,5 +1,5 @@
 # ML-iris
-## Using data from the [UCI Machine Learning Repository](https://archive.ics.uci.edu/dataset/53/iris) to practice machine learning with scikit-learn
+## Using data from the [scikit-learn dataset](https://scikit-learn.org/stable/modules/classes.html#module-sklearn.datasets) on irises to practice machine learning, specifically train-test-split, model selection, and metrics for accuracy.
 
 **Steps taken**
 1. Imported data
